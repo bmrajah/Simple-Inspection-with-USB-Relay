@@ -1,0 +1,11 @@
+pip3 install mkl
+pip3 install scikit-image
+pip3 install numpy
+pip3 install numpy==1.18.5
+pip3 install Cython
+pip3 install pyopencl
+python -m pip install pybind11
+pip3 install pybind
+pip3 uninstall numpy
+pip3 install imutils
+pip3 install pyrelayctl
